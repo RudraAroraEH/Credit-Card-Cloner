@@ -1,0 +1,13 @@
+Circuit connection for the RFID cloner project using Arduino Uno R3 and RFID RC522:
+
+RFID RC522   to   Arduino UNO
+---------------------------
+SDA (SS) →   Pin 10
+SCK →   Pin 13
+MOSI →   Pin 11
+MISO →   Pin 12
+GND  →   GND
+RST   →   Pin 9
+3.3V  →   3.3V
+
+Please note that the connections may vary depending on the specific Arduino board and RFID module used. Make sure to follow the pinout of the board and the module when connecting the components.
