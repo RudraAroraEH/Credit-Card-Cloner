@@ -13,7 +13,7 @@ This project would develop an RFID cloner and a credit card cloning tool. The to
 
 ## Requirements
 - C programming language
-- Arduino IDE
+- Arduino Genuino
 - Components: Arduino UNO R3, RFID RC522, Jumper Wires, Breadboard
 - Required C libraries: Easymfrc522
 - Hardware for RFID/NFC reader/writer, such as Arduino or RFID RC522
